@@ -1,5 +1,5 @@
 #!/bin/bash -x
-
+echo "welcome"
 num=$((RANDOM%2))
 if [ $num == 1 ]
 then
