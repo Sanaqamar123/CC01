@@ -1,5 +1,5 @@
 #!/bin/bash -x
-echo "Welcome"
+
 num=$((RANDOM%2))
 if [ $num == 1 ]
 then
@@ -7,3 +7,4 @@ then
 else
 	echo "Employee is absent"
 fi
+echo "something"
