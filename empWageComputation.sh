@@ -7,4 +7,4 @@ then
 else
 	echo "Employee is absent"
 fi
-echo "new change"
+echo "new  some change"
